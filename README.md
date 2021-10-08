@@ -1,14 +1,26 @@
-<h2 align="center">Hello 👋, This is me, Lakpa Tamang :innocent:</h2> 
-<h3 align="center">An enthusiastic learner, and passionate AI software developer :sunglasses: :nerd_face: </h3>
+# Hello 👋, This is me, Lakpa Tamang 😇
+### An enthusiastic learner, and passionate AI software developer :sunglasses: :nerd_face: 
+> Ability is defined by how much effort you put on 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakpa-tamang12&label=Profile%20views&color=0e75b6&style=flat" alt="lakpa-tamang12" /> </p>
 
-- 🔭 I’m currently working on [Human action recognition using Deep Learning](https://github.com/Recursive-Intelligence/dancing_robot)
+I have a Master's Degree in Information and Communication Engineering. I am a keen learner who likes to learn new things, especially in the field of software development. My interests are machine learning, data analysis, deep learning, computer vision. I have published multiple research articles during my graduate course. Find it in these journals:
+* [Optics Express](https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-29-8-11494&id=449696)
+* [MDPI Electronics](https://www.mdpi.com/2079-9292/10/4/468)
+* [IEIE SPC](http://ieiespc.org/ieiespc/ArticleDetail/RD_R/403275)
+  
+I’m currently working on [Human action recognition using Deep Learning](https://github.com/Recursive-Intelligence/dancing_robot)
+
+### Find my personal projects here:
+* [Colorectal cancer image classification using deep learning](https://github.com/lakpa-tamang9/Colorectal-Cancer-Diagnosis-Deep-Learning)
+* [Finger vein image segmentation with U-Net structure](https://github.com/lakpa-tamang9/Image-segmentation-with-U-NET)
+
+#### Checkout my repositories on [Data analysis with Python](https://github.com/lakpa-tamang9/Data-Analysis-with-Python) and [Advanced Machine Learning with Python](https://github.com/lakpa-tamang9/Machine-Learning)
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/lakpa-tamang-061746159/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakpa tamang" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/lakpa tamang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="lakpa tamang" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/12598386/lakpa-tamang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="lakpa tamang" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
