@@ -23,6 +23,8 @@ I’m currently working on [Human action recognition using Deep Learning](https:
 <a href="https://stackoverflow.com/users/12598386/lakpa-tamang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="lakpa tamang" height="30" width="40" /></a>
 </p>
 
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakpa-tamang9&layout=compact)](https://github.com/lakpa-tamang9/github-readme-stats)
 
 ### Tools that i use
