@@ -1,5 +1,5 @@
 # Hello 👋, This is me, Lakpa Tamang 😇
-### An enthusiastic learner, and passionate AI software developer :sunglasses: :nerd_face: 
+### An enthusiastic learner, an ex AI software developer, and a PhD researcher :sunglasses: :nerd_face: 
 > Ability is defined by how much effort you put on 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakpa-tamang12&label=Profile%20views&color=0e75b6&style=flat" alt="lakpa-tamang12" /> </p>
